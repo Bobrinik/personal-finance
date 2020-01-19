@@ -1,6 +1,6 @@
 ## Requirements:
 - [Know how to fork a project on GitHub](https://guides.github.com/activities/forking/)
-- [Familiarity with Jupiter Notebook](https://realpython.com/jupyter-notebook-introduction/)
+- [Familiarity with Jupiter Notebook](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks98.02)
 - Have a google account
 
 ## Instructions
